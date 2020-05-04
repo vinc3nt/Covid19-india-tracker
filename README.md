@@ -6,6 +6,9 @@
 - Simple Minimistic **GUI**
 
 
+![GitHub Logo](/COVID.PNG)
+
+
 # Windows Release is out [Here](http://github.com/vinc3nt/Covid19-india-tracker/releases/tag/v1.0 "Here")
 
 
